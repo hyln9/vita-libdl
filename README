@@ -1,0 +1,3 @@
+vita-libdl
+
+See sample/db.txt for dldbadd format. Currently 3 library entry format is supported: preloaded module, sysmodule and suprx file module.
